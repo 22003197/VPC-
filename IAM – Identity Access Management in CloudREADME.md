@@ -1,4 +1,4 @@
-# IAM-
+# IAM– Identity Access Management in Cloud
 ## AIM
 
 ## IAM Working Overview
@@ -215,11 +215,9 @@ You need this link to sign in later, testing each user.
 If you are using Firefox, do the following:
 o In the upper-right corner, choose the Open application menu icon and choose New Private Window.
 If you are using Chrome, do the following:
-o In the upper-right corner, choose the Customize and Control Google Chrome ellipsis icon and
-choose New incognito window.
+o In the upper-right corner, choose the Customize and Control Google Chrome ellipsis icon and choose New incognito window.
 If you are using Edge, do the following:
-o In the upper-right corner, choose the Settings and more ellipsis icon and choose New InPrivate
-window.
+o In the upper-right corner, choose the Settings and more ellipsis icon and choose New InPrivate window.
 If you are using Internet Explorer, do the following:
 o On the Tools menu, choose InPrivate Browsing.
 34. Paste the IAM users sign-in link you copied earlier into the private window, and press Enter.
@@ -231,9 +229,7 @@ Sign in as user-1.
 user-1
 ● Password: Paste the value of UserPassword located to the left of these instructions.
 ● Press Enter.
-36. At the top of the AWS Management Console, in the search bar, search for and choose
-S3
-.
+36. At the top of the AWS Management Console, in the search bar, search for and choose S3.
 37. From the S3 dashboard, choose the link for the bucket that has s3bucket in its name.
 To the left of these instructions, you can also find the name of your S3 bucket. A bucket with awslabs-resources in
 its name might also be present, along with an error. This is normal. You do not have access to this bucket.
